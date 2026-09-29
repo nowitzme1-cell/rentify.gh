@@ -1,0 +1,6 @@
+{
+  "name": "Rentify.pk",
+  "description": "Pakistan's First P2P Rental Marketplace for cameras, ACs, tools, cars, and wedding essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
